@@ -1,2 +1,2 @@
 # learning-github-action
-Github Actions Quickstart
+GitHub Actions Quickstart
